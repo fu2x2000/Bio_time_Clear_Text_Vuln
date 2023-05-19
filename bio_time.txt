@@ -1,0 +1,14 @@
+Bio_time 
+
+Affected url: domain/login
+
+         <form action="" method="post" id="login-form">
+            <input type='hidden' name='csrfmiddlewaretoken' value='wiTnjyvWyDJICAh3a6guYZo4OJqRHEmAhT0l1nyhc3OgGfHPsUhPF3AWFVPR3Bwq' />
+            <p class="error_tip">&nbsp;</p>
+            <input class="login_inp" id="id_username" autocomplete="off" name="username" type="text"
+                   style="display:none" value=""/>
+            <input class="login_inp login_inp_tip" id="id_usernameTip" type="text"
+                   value="Username"/>
+            <input class="login_inp" id="id_password" autocomplete="off" name="password" type="password"
+                   style="display:none" value=""/>
+            <input class="login_inp login_inp_tip" id="id_passwordTip" type="text" value="Password "/>
